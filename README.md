@@ -10,7 +10,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pugazh-mani-M&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   <a href="mailto:pugazhmani.m20@gmail.com"><img src="https://img.shields.io/badge/Gmail-pugazhmani.m20%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/pugazhmani-m"><img src="https://img.shields.io/badge/LinkedIn-pugazhmani-m-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/pugazhmani-m"><img src="https://img.shields.io/badge/LinkedIn-pugazhmanim-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Kanchipuram%2C%20Tamil%20Nadu%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white"/>
 </div>
 
